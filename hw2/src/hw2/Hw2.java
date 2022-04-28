@@ -26,7 +26,7 @@ public class Hw2 {
             asdd=asd[i].split(" ");
             arrAy[i]=Integer.parseInt(asdd[0]);
             patients[i]=new informations();
-      System.out.println("sasasasa");
+      System.out.println("sasasasaqwdqwdqwdqwd");
             i++;
             if(i==20) break;
         }
