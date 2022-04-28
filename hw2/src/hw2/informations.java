@@ -5,6 +5,8 @@
  */
 package hw2;
 
+import javax.xml.bind.SchemaOutputResolver;
+
 /**
  *
  * @author Yusuf
@@ -26,7 +28,7 @@ public class informations {
     }
 
     public int getAge() {
-
+    System.out.println("asdklşasdklşasdklş");
     System.out.println("asdasd");
         return age;
     }
