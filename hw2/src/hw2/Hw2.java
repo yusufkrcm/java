@@ -46,7 +46,7 @@ public class Hw2 {
             }
             s--;
         }
-        String[] newestArray=new String[58];
+        String[] newestArray=new String[75];
         int counter=0;
         for(int m=0;m<20;m++){
             for(int n=0;n<20;n++){

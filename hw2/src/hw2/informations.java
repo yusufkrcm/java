@@ -32,7 +32,7 @@ public class informations {
     public int getAge() {
     System.out.println("asdklşasdklşasdklş");
     System.out.println("asdasd");
-    System.out.println("Selamın aleyküm adım Azrail");
+    System.out.println("Selamın aleyküm adım Azrail sssss");
         return age;
     }
 
