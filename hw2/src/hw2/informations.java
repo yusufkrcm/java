@@ -16,7 +16,7 @@ public class informations {
     private int age;
     private String name;
     private String lastName;
-    private String professionsss;
+    private String profession;
     private String professionwdqqwdqw;
     private String bloodType;
     private int height;
