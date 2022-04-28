@@ -19,7 +19,7 @@ public class informations {
     private String bloodType;
     private int height;
     private int weight;
-    private int asd;
+    private int aqwdqwddqwsd;
     public informations(){
         
     }

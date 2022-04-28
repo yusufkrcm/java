@@ -20,7 +20,7 @@ public class Hw2 {
         String[] asd=new String[20];
         String[] asdd;
         int i=0;
-        int arrAy[]=new int[20];
+        int arrAy[]=new int[30];
         while(true){
             asd[i]=br.readLine();
             asdd=asd[i].split(" ");
