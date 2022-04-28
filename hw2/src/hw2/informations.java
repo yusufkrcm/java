@@ -25,6 +25,8 @@ public class informations {
     }
 
     public int getAge() {
+
+    System.out.println("asdasd");
         return age;
     }
 
@@ -75,6 +77,8 @@ public class informations {
     public int getWeight() {
         return weight;
     }
+
+
     
     
 }
