@@ -12,10 +12,11 @@ import javax.xml.bind.SchemaOutputResolver;
  * @author Yusuf
  */
 public class informations {
+    private int asdasjk;
     private int age;
     private String name;
     private String lastName;
-    private String profession;
+    private String professionsss;
     private String professionwdqqwdqw;
     private String bloodType;
     private int height;
