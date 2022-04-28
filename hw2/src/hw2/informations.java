@@ -15,7 +15,11 @@ public class informations {
     private int age;
     private String name;
     private String lastName;
+<<<<<<< HEAD
     private String professionsss;
+=======
+    private String professionwdqqwdqw;
+>>>>>>> 58e408ece238282a4c97330b3477cd7863a24f17
     private String bloodType;
     private int height;
     private int weight;
