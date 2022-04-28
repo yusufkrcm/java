@@ -17,7 +17,7 @@ public class Hw2 {
     public static void main(String[] args) throws FileNotFoundException, IOException {
         informations[] patients=new informations[20];
         BufferedReader br = new BufferedReader(new FileReader("hw2.txt"));
-        String[] asd=new String[20];
+        String[] asd=new String[240];
         String[] asdd;
         int i=0;
         int arrAy[]=new int[30];
