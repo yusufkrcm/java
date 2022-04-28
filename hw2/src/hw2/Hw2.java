@@ -66,6 +66,7 @@ public class Hw2 {
                 }
             }
         }
+        System.out.print("sea bozdum knk");
         for(int c=0;c<20;c++){
             System.out.print(patients[c].getAge()+" ");
             System.out.print(patients[c].getName()+" ");
